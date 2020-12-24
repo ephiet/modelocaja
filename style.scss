@@ -1,183 +1,159 @@
-.ejercicio1 {
-    display: none; 
-    p{
-        border-style: dotted;
-        border-color: red;
-    }
-}
-.ejercicio2 {
-    display: none;
-    h1{
-        background-color: skyblue;
-        width: 300px;
-    }
-}
-.ejercicio3 {
-    display: none;
-    p{
-        background-color: skyblue;
-        padding: 30px;
-    }
-}
-.ejercicio4 {
-    display: none;
-    h1{
-        background-color: skyblue;
-        padding-bottom: 40px;
-    }
-}
-.ejercicio5 {
-    display: none;
-    p{
-        background-color: skyblue;
-        width: 200px;
-    }
-}
-.ejercicio6 {
-    display: none;
-    p{
-        background-color: skyblue;
-        width: 200px;
-        padding: 25px;
-    }
-}
-.ejercicio7 {
-    display: none;
-    p{
-        background-color: skyblue;
-        width: 200px;
-        padding: 25px;
-        border-style: solid;
-        border-color: darkblue;
-        border-width: 25px;
-    }
-}
-.ejercicio8{
-    display: none;
-    p{
-        background-color: skyblue;
-        width: 200px;
-        padding: 25px;
-        border-style: solid;
-        border-color: darkblue;
-        border-width: 25px;
-        margin-left: 25px;
-    }
-}
-.ejercicio9 {
-    display: none;
-    h1{
-        color: blue;
-    }
-    p{
-        color: red;
-    }
-}
-.ejercicio10 {
-    display: none;
-    h1{
-        position: relative;
-        left: 200px;
-    }
+ejercicio1
+    display: none
+    p  
+        border-style: dotted  
+        border-color: red  
+    
+ejercicio2   
+    display: none  
+    h1  
+        background-color: skyblue  
+        width: 300px  
+    
+ejercicio3   
+    display: none  
+    p  
+        background-color: skyblue  
+        padding: 30px  
 
-}
-.ejercicio11 {
-    display: none;
-    p{
-        width: 700px;
-        text-indent: 20px;
-    }
-}
-.ejercicio12 {
-    display: none;
-    h1{
-        text-transform: uppercase;
-    }
-    p{
-        text-transform: capitalize;
-    }
-}
-.ejercicio13 {
-    display: none;
-    h1{
-        font-family: sans-serif;
-    }
-    p{
-        font-family: monospace;
-    }
-}
-.ejercicio14 {
-    display: none;
-    p{
-        font-style: italic;
-    }
-}
-.ejercicio15 {
-    display: none;
-    h1{
-        font-size: 48px;
-    }
-}
-.ejercicio16 {
-    display: none;
-    p{
-        font-weight: bold;
-    }
-}
-.ejercicio17 {
-    display: none;
-    p{
-        font-family: sans-serif;
-        font-style: italic;
-        font-size: 17px;
-    }
-}
-.ejercicio18 {
-    display: none;
-    .titulo {
-        width: 300px;
-        padding-left: 180px;
-        padding-bottom: 0px;
-    }
-    .texto{
-        width: 300px;
-        border-style: solid;
-        border-color: skyblue;
-        border-width: 40px;
-        padding-left: 125px;
-        padding-top: 30px;
-        padding-bottom: 40px;     
-    }
-}
-.ejercicio19 {
-     .modulo{
-        width: 300px;
-        padding-left: 160px; 
-    }
-    .modelo{
-        width: 300px;
-        height: 150px;
-        border-style: solid;
-        border-color: skyblue;
-        border-width: 40px;
-        padding-left: 60px;
-        padding-top: 50px;
-        padding-bottom: 10px;  
-        .verde {    
-            background-color: skyblue;
-            width: 250px;
-            box-sizing: border-box;
-            }
-        .tituloverde {
-            color: green;
-            padding-left: 15px;
-            font-weight: bolder;
-            margin-bottom: 0px;
-        }
-        p{
-            font-weight: bold;
-            padding-left: 30px;
-            margin-top: 0px;
-        }
-    }
-}
+ejercicio4   
+    display: none  
+    h1  
+        background-color: skyblue  
+        padding-bottom: 40px  
+    
+ejercicio5   
+    display: none  
+    p  
+        background-color: skyblue  
+        width: 200px  
+    
+ejercicio6   
+    display: none  
+    p  
+        background-color: skyblue  
+        width: 200px  
+        padding: 25px  
+    
+ejercicio7   
+    display: none  
+    p  
+        background-color: skyblue  
+        width: 200px  
+        padding: 25px  
+        border-style: solid  
+        border-color: darkblue  
+        border-width: 25px  
+    
+ejercicio8  
+    display: none  
+    p  
+        background-color: skyblue  
+        width: 200px  
+        padding: 25px  
+        border-style: solid  
+        border-color: darkblue  
+        border-width: 25px  
+        margin-left: 25px  
+    
+ejercicio9   
+    display: none  
+    h1  
+        color: blue  
+     
+    p  
+        color: red  
+    
+ejercicio10   
+    display: none  
+    h1  
+        position: relative  
+        left: 200px  
+    
+ejercicio11   
+    display: none  
+    p  
+        width: 700px  
+        text-indent: 20px  
+    
+ejercicio12   
+    display: none  
+    h1  
+        text-transform: uppercase  
+     
+    p  
+        text-transform: capitalize  
+    
+ejercicio13   
+    display: none  
+    h1  
+        font-family: sans-serif  
+     
+    p  
+        font-family: monospace  
+    
+ejercicio14   
+    display: none  
+    p  
+        font-style: italic  
+    
+ejercicio15   
+    display: none  
+    h1  
+        font-size: 48px  
+    
+ejercicio16   
+    display: none  
+    p  
+        font-weight: bold  
+    
+ejercicio17   
+    display: none  
+    p  
+        font-family: sans-serif  
+        font-style: italic  
+        font-size: 17px  
+    
+ejercicio18   
+    display: none  
+      titulo   
+        width: 300px  
+        padding-left: 180px  
+        padding-bottom: 0px
+    texto  
+        width: 300px  
+        border-style: solid  
+        border-color: skyblue  
+        border-width: 40px  
+        padding-left: 125px  
+        padding-top: 30px  
+        padding-bottom: 40px       
+     
+ejercicio19   
+    modulo  
+        width: 300px  
+        padding-left: 160px   
+    
+    modelo  
+        width: 300px  
+        height: 150px  
+        border-style: solid  
+        border-color: skyblue  
+        border-width: 40px  
+        padding-left: 60px  
+        padding-top: 50px  
+        padding-bottom: 10px    
+            verde       
+                background-color: skyblue  
+                width: 250px  
+                box-sizing: border-box  
+             
+            tituloverde   
+                color: green  
+                padding-left: 15px  
+                font-weight: bolder  
+                margin-bottom: 0px               
+            p  
+                font-weight: bold  
+                padding-left: 30px  
+                margin-top: 0px       
